@@ -1,6 +1,6 @@
 # AlucardLogisticsViewTool
 
-> Various view specific methods dor applications I use.
+> Various view specific methods for applications I use.
 
 ## Installation
 
